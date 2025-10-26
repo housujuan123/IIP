@@ -24,8 +24,8 @@ Baseline [17], as illustrated in Fig. 2.
 
 # Getting Started
 
-To train a model with "train.py", use
-python tools/train.py
+To train a model with "train.py", use<br>
+'''python tools/train.py'''
 
-To evaluate a model's performance, use
-python tools/test.py
+To evaluate a model's performance, use<br>
+'''python tools/test.py'''
