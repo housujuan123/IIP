@@ -22,8 +22,18 @@ target. Extensive experiments conducted on three widely used
 logo datasets demonstrate the effectiveness of our proposed
 network.
 
+## Intra-Inter Class Enhancement (IICE)
+The Intra-Inter Class Enhancement (IICE) module  details how the combination of external and internal information achieves foreground-background separation.
+<img width="1115" height="605" alt="image" src="https://github.com/user-attachments/assets/683c1c61-ed9e-4d5e-bd99-9204b6ff1eeb" />
+
+## Intra-Inter ROI Weighted Decoupling (IIWD)
+The Intra-Inter ROI Weighted Decoupling (IIWD) module separates the classification and regression tasks.
+<img width="1243" height="613" alt="image" src="https://github.com/user-attachments/assets/6949dc20-164a-4e89-bfd5-ae4f5f2d2a51" />
+
+
+
 ## Visualization Comparison
-The visual comparison of IIP with other models is shown in the figure.
+The visual comparison of IIP with other models is shown in the figure.This module leverages inter-ROI and intra-ROI relationships to weight ROI features, leading to a more robust and accurate regression.
 <img width="1276" height="461" alt="image" src="https://github.com/user-attachments/assets/9d54d683-7417-48a8-9c1c-cd8ede35d3f1" />
 
 ## Getting Started
