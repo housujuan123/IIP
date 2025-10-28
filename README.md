@@ -1,9 +1,5 @@
 # Intra-Inter Perspective: an Efficient Network for Logo Detection
 
-## IIP(Intra-Inter Perspective)
-<img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
-<p align="center">Fig. 1: The overall architecture of our proposed network.</p>
-
 ## The Description of IIP
 Logo detection is crucial in various fields, including
 advertising marketing, security monitoring, manufacturing and
@@ -22,6 +18,10 @@ inter-ROI relationships, effectively emphasizing the regression
 target. Extensive experiments conducted on three widely used
 logo datasets demonstrate the effectiveness of our proposed
 network.
+
+## IIP(Intra-Inter Perspective)
+<img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
+<p align="center">Fig. 1: The overall architecture of our proposed network. It consists of two key components: Intra-Inter Class Enhancement (IICE) module and Intra-Inter ROI Weighted Decoupling (IIWD) module</p>
 
 ## Intra-Inter Class Enhancement (IICE)
 The Intra-Inter Class Enhancement (IICE) module  details how the combination of external and internal information achieves foreground-background separation.
