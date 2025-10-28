@@ -32,7 +32,8 @@ The Intra-Inter ROI Weighted Decoupling (IIWD) module separates the classificati
 
 ## Visualization Comparison
 The visual comparison of IIP with other models is shown in the figure.
-<img width="1276" height="461" alt="image" src="https://github.com/user-attachments/assets/9d54d683-7417-48a8-9c1c-cd8ede35d3f1" />
+<img width="1340" height="827" alt="image" src="https://github.com/user-attachments/assets/9ad17c39-8e10-4184-84a9-9f6336c8fdd2" />
+
 
 ## Installation
 We recommend that users follow best practices to install MMDetection.
