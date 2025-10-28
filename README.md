@@ -1,6 +1,5 @@
 # Intra-Inter Perspective: an Efficient Network for Logo Detection
 
-## The Description of IIP
 Logo detection is crucial in various fields, including
 advertising marketing, security monitoring, manufacturing and
 brand protection. However, accurately detecting logos in complex environments presents significant challenges due to issues
