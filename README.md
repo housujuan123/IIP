@@ -2,7 +2,7 @@
 
 ## IIP(Intra-Inter Perspective)
 <img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
-<p align="center">Fig. 1: Intra-Inter Class Enhancement (IICE).</p>
+<p align="center">Fig. 1: The overall architecture of our proposed network.</p>
 
 ## The Description of IIP
 Logo detection is crucial in various fields, including
