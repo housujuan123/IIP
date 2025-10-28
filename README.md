@@ -26,7 +26,7 @@ network.
 The visual comparison of IIP with other models is shown in the figure.
 <img width="1276" height="461" alt="image" src="https://github.com/user-attachments/assets/9d54d683-7417-48a8-9c1c-cd8ede35d3f1" />
 
-##Getting Started
+## Getting Started
 
 To train a model with "train.py", use<br>
 ```
