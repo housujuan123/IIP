@@ -1,5 +1,9 @@
 # Intra-Inter Perspective: an Efficient Network for Logo Detection
 
+## IIP(Intra-Inter Perspective)
+<img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
+
+## The Description of IIP
 Logo detection is crucial in various fields, including
 advertising marketing, security monitoring, manufacturing and
 brand protection. However, accurately detecting logos in complex environments presents significant challenges due to issues
@@ -16,13 +20,13 @@ the Region of Interest (ROI) by focusing on both intra-ROI and
 inter-ROI relationships, effectively emphasizing the regression
 target. Extensive experiments conducted on three widely used
 logo datasets demonstrate the effectiveness of our proposed
-network.Fig. 1 provides an overview of the comprehensive framework of the proposed network.
-<img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
-We further conducted a visual analysis against several representative methods, including FSAF [41], GFL [42], LiteYOLO [46], TOOD [43], YOLOv10 [45], YOLOv12 [51], and the
-Baseline [17], as illustrated in Fig. 2.
+network.
+
+## Visualization Comparison
+The visual comparison of IIP with other models is shown in the figure.
 <img width="1276" height="461" alt="image" src="https://github.com/user-attachments/assets/9d54d683-7417-48a8-9c1c-cd8ede35d3f1" />
 
-# Getting Started
+##Getting Started
 
 To train a model with "train.py", use<br>
 ```
