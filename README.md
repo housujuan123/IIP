@@ -31,7 +31,7 @@ The Intra-Inter ROI Weighted Decoupling (IIWD) module separates the classificati
 <img width="1243" height="613" alt="image" src="https://github.com/user-attachments/assets/6949dc20-164a-4e89-bfd5-ae4f5f2d2a51" />
 
 ## Visualization Comparison
-The visual comparison of IIP with other models is shown in the figure.This module leverages inter-ROI and intra-ROI relationships to weight ROI features, leading to a more robust and accurate regression.
+The visual comparison of IIP with other models is shown in the figure.
 <img width="1276" height="461" alt="image" src="https://github.com/user-attachments/assets/9d54d683-7417-48a8-9c1c-cd8ede35d3f1" />
 
 ## Getting Started
