@@ -2,8 +2,7 @@
 
 ## IIP(Intra-Inter Perspective)
 <img width="1406" height="264" alt="image" src="https://github.com/user-attachments/assets/fd138235-ed1b-4089-ab91-425210971102" />
-<p align="center">Fig. 1: The overall architecture of our proposed network.</p>
-
+<p align="center">Fig. 1: Intra-Inter Class Enhancement (IICE).</p>
 ## The Description of IIP
 Logo detection is crucial in various fields, including
 advertising marketing, security monitoring, manufacturing and
@@ -26,15 +25,17 @@ network.
 ## Intra-Inter Class Enhancement (IICE)
 The Intra-Inter Class Enhancement (IICE) module  details how the combination of external and internal information achieves foreground-background separation.
 <img width="1115" height="605" alt="image" src="https://github.com/user-attachments/assets/683c1c61-ed9e-4d5e-bd99-9204b6ff1eeb" />
+<p align="center">Fig. 2: Intra-Inter Class Enhancement (IICE).</p>
 
 ## Intra-Inter ROI Weighted Decoupling (IIWD)
 The Intra-Inter ROI Weighted Decoupling (IIWD) module separates the classification and regression tasks.This module leverages inter-ROI and intra-ROI relationships to weight ROI features, leading to a more robust and accurate regression.
 <img width="1243" height="613" alt="image" src="https://github.com/user-attachments/assets/6949dc20-164a-4e89-bfd5-ae4f5f2d2a51" />
+<p align="center">Fig. 3: Intra-Inter ROI Weighted Decoupling (IIWD).</p>
 
 ## Visualization Comparison
 The visual comparison of IIP with other models is shown in the figure.
 <img width="1340" height="827" alt="image" src="https://github.com/user-attachments/assets/9ad17c39-8e10-4184-84a9-9f6336c8fdd2" />
-
+<p align="center">Fig. 4: Visualization of the proposed model. The category label and classification score are assigned to each bounding box.</p>
 
 ## Installation
 We recommend that users follow best practices to install MMDetection.
