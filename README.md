@@ -47,10 +47,10 @@ We recommend that users follow best practices to install MMDetection.
 
 To train a model with "train.py", use<br>
 ```
-python tools/train.py
+python tools/train.py --config "train config file path" --work-dir "the dir to save logs"
 ```
 
 To evaluate a model's performance, use<br>
 ```
-python tools/test.py
+python tools/test.py "test config file path" 'checkpoint file' --eval 'evaluation metrics, which depends on the dataset, e.g., "bbox", "segm", "proposal" for COCO, and "mAP", "recall" for PASCAL VOC'
 ```
